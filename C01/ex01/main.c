@@ -25,5 +25,5 @@ int	main(void)
 	nbr2 = &nbr3;
 	nbr = &nbr2;
 	ft_ultimate_ft(nbr);
-	printf("%d", nbr);
+	printf("%d", nbr10);
 }
