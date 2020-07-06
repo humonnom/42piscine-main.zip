@@ -8,6 +8,6 @@ int	main(void)
 
 	num=0;
 	printf(": ");
-	scanf("&num");
+	scanf("%d", &num);
 	ft_is_negative(num);
 }
