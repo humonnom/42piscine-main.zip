@@ -1,4 +1,4 @@
 # main_zip
 
 Main.c files for Evaluating!
-Makefile from..@Yekim
+Makefile from..@Yam-P
